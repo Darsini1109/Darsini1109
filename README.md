@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Darsini1109
+- 👋 Hi, I’m @sivapriyadarsini
 - 👀 I’m interested in web designs and coding
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on ...
